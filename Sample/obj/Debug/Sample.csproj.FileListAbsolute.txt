@@ -1,0 +1,7 @@
+W:\Specialization\Day 3\SampleSolution\Sample\bin\Debug\Sample.exe.config
+W:\Specialization\Day 3\SampleSolution\Sample\bin\Debug\Sample.exe
+W:\Specialization\Day 3\SampleSolution\Sample\bin\Debug\Sample.pdb
+W:\Specialization\Day 3\SampleSolution\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+W:\Specialization\Day 3\SampleSolution\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+W:\Specialization\Day 3\SampleSolution\Sample\obj\Debug\Sample.exe
+W:\Specialization\Day 3\SampleSolution\Sample\obj\Debug\Sample.pdb
